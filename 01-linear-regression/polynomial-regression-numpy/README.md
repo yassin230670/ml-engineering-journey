@@ -94,4 +94,7 @@ It is one step in my ongoing journey to become a **Machine Learning Engineer**.
 ---
 
 **Part of my Machine Learning Journey 🚀**
-
+GitHub: https://github.com/yassin230670
+Instagram: https://www.instagram.com/yassin_log/
+TikTok: https://www.tiktok.com/@yassin.cs?lang=en-GB
+YouTube: https://www.youtube.com/@yassincs-5885
