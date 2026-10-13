@@ -257,9 +257,6 @@ This experiment is one step in my ongoing journey toward becoming a Machine Lear
 - Investigate regularization.
 - Move toward classification algorithms.
 
-## Feedback
-
-If you have suggestions or feedback, feel free to [open an issue](../../issues) or connect with me!
 
 ---
 
