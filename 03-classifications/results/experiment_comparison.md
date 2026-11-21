@@ -1,0 +1,5 @@
+| experiment                          |   train_accuracy |   test_accuracy |   precision_macro |   recall_macro |   f1_macro |   epochs | converged   |   final_epoch_mistakes |
+|:------------------------------------|-----------------:|----------------:|------------------:|---------------:|-----------:|---------:|:------------|-----------------------:|
+| experiment1_setosa_vs_versicolor    |            1.000 |           1.000 |             1.000 |          1.000 |      1.000 |        1 | True        |                      0 |
+| experiment2_versicolor_vs_virginica |            0.975 |           0.800 |             0.812 |          0.800 |      0.798 |      100 | False       |                      2 |
+| One-vs-Rest (3 classes)             |            0.817 |           0.767 |             0.845 |          0.767 |      0.728 |      150 | False       |                     48 |
