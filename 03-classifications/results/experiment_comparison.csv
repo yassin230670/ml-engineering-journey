@@ -1,4 +1,0 @@
-experiment,train_accuracy,test_accuracy,precision_macro,recall_macro,f1_macro,epochs,converged,final_epoch_mistakes
-experiment1_setosa_vs_versicolor,1.0,1.0,1.0,1.0,1.0,1,True,0
-experiment2_versicolor_vs_virginica,0.975,0.8,0.8125,0.8,0.797979797979798,100,False,2
-One-vs-Rest (3 classes),0.8166666666666667,0.7666666666666667,0.8446969696969697,0.7666666666666666,0.7277167277167278,150,False,48
